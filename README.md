@@ -18,6 +18,15 @@
 - 027西瓜皮 [日志链接](./members/027xiguapi.md) (2024-03-18加入)
 - cheng [日志链接](./members/chennng.md) (2024-03-18加入)
 - 搬运工[日志链接](./members/maweix663.md) (2024-03-18加入)
+- 平子 [日志链接](./members/liaoxiping.md) (2024-03-18加入)
+- 败者自败 [日志链接](./members/BaiZheZiBai.md) (2024-03-18加入)
+- 三飘 [日志链接](./members/Fuphoenixes.md) (2024-03-18加入)
+- 可达鸭 [日志链接](./members/ssh1319126601.md) (2024-03-18加入)
+- 飞机✈️[日志链接](./members/Edward1020.md) (2024-03-18加入)
+- 好运来 [日志链接](./members/huangquanya.md) (2024-03-18加入)
+- 星辰[日志链接](./members/xingchen-666.md) (2024-03-18加入)
+- Ryan[日志链接](./members/TySakae.md) (2024-03-18加入)
+- 伊卡洛斯[日志链接](./members/1466364064.md) (2024-03-18加入)
 
 ## 日常打卡规则
 
