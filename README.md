@@ -11,6 +11,8 @@
 - 小春 [日志链接](./members/zhangshichun.md) (社群创建者)
 - 柯基 [日志链接](./members/xuchuguo.md) (2024-03-18加入)
 - 青鸟 [日志链接](./members/midsummer-j.md) (2024-03-18加入)
+- W [日志链接](./members/Wykzz.md) (2024-03-18加入)
+- 天天想请假 [日志链接](./members/dongwei-980923.md) (2024-03-18加入)
 
 ## 日常打卡规则
 
