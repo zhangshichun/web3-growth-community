@@ -11,7 +11,7 @@
 - 小春 [日志链接](./members/zhangshichun.md) (社群创建者)
 - 柯基 [日志链接](./members/xuchuguo.md) (2024-03-18加入)
 - 青鸟 [日志链接](./members/midsummer-j.md) (2024-03-18加入)
-
+- 羊驼 [日志链接](./members/haoyang.md) (2024-03-18加入)
 ## 日常打卡规则
 
 - 每周至少打卡一次，记录自己的成长。
