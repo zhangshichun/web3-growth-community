@@ -13,6 +13,11 @@
 - 青鸟 [日志链接](./members/midsummer-j.md) (2024-03-18加入)
 - W [日志链接](./members/Wykzz.md) (2024-03-18加入)
 - 天天想请假 [日志链接](./members/dongwei-980923.md) (2024-03-18加入)
+- 羊驼 [日志链接](./members/18595439829.md) (2024-03-18加入)
+- queue [日志链接](./members/can-chen.md) (2024-03-18加入)
+- 027西瓜皮 [日志链接](./members/027xiguapi.md) (2024-03-18加入)
+- cheng [日志链接](./members/chennng.md) (2024-03-18加入)
+- 搬运工[日志链接](./members/maweix663.md) (2024-03-18加入)
 
 ## 日常打卡规则
 
