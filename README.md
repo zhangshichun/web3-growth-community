@@ -28,7 +28,7 @@
 - Ryan[日志链接](./members/TySakae.md) (2024-03-18加入)
 - 伊卡洛斯[日志链接](./members/1466364064.md) (2024-03-18加入)
 - 李知恩[日志链接](./members/minturechan96.md) (2024-03-19加入)
-- vscing[日志链接](./members/vscing.md) (2024-03-26加入)
+- vscing[日志链接](./members/vscing.md) (2024-03-18加入)
 
 ## 大家学习用到的资料（欢迎大家积极补充）
 
