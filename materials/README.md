@@ -8,3 +8,4 @@
 
 1. [viem](https://github.com/wevm/viem) 一款 `ts` 的以太坊调用 `API`.
 2. [wagmi](https://github.com/wevm/wagmi) 一款以太坊调用的 `react Hooks` 库.
+2. [solidity-cn](https://solidity-cn.readthedocs.io/zh/develop/introduction-to-smart-contracts.html) 智能合约`solidity`中文文档.
